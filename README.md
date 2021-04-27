@@ -46,4 +46,4 @@ This project is under the MIT license. See the file [LICENSE](LICENSE.md) for mo
 
 ---
 
-Made with 💜 by Neres
+Made with 💜 by Neres "in search of a dream" #developerweb
